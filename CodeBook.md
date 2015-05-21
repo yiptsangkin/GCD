@@ -12,16 +12,29 @@
 #变量描述
 
 features feature.txt文件中的各测试数据的名称
+
 activity_labels 测试项目的名称
+
 x_train x_train_file内容
+
 y_train y_train_file内容
+
 subject_train subject_train_file内容
+
 x_test x_test_file内容
+
 y_test y_test_file内容
+
 subject_test subject_test_file内容
+
 training_sensor_data 训练集数据
+
 test_sensor_data 测试集数据
+
 sensor_data 总数据
+
 sensor_labels 最终数据的列名
+
 sensor_data_mean_std 抽取的mean和std的数值
+
 sensor_final_data 整理列名后的数据
